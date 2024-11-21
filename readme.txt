@@ -9,8 +9,9 @@ Currently test code is inside FileManager.cpp. This should be moved to FileManag
 
 Build
 =====
-Open the solution inside Visual Studio 2022 and set the build for x64 Release.
-Debug configuration is not set.
+Open the solution inside Visual Studio 2022, C++20.
+Only the Release for x64 build configuration is setup. I have not tested with other configurations yet.
+Therefore, ensure your build configuration is set to Release for x64 before attempting to build.
 
 Test
 =====
